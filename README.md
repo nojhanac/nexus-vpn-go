@@ -4,6 +4,9 @@ nano optimizer.sh
 
 
 chmod +x optimizer.sh
+
+
 bash optimizer.sh
 
 
+apt install qrencode
